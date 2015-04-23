@@ -144,5 +144,3 @@ public class FoodItem extends Item implements Comparable<FoodItem>
  		return "FoodItem - UPC Code: " + upc + "  Shelf life: " + shelfLife + "  Name: " + name;
 	}
 }
-
-// edit
